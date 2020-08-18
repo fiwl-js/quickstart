@@ -1,0 +1,21 @@
+primaryColor         = 0x5c6bc0
+primaryLightColor    = 0x8e99f3
+primaryDarkColor     = 0x26418f
+onPrimaryColor       = 0xffffff
+secondaryColor       = 0x4caf50
+secondaryLightColor  = 0x80e27e
+secondaryDarkColor   = 0x087f23
+onSecondaryColor     = 0xffffff
+errorColor           = 0xb00020
+onErrorColor         = 0xffffff
+textColor            = 0x000000
+foregroundColor      = 0x000000
+backgroundColor      = 0xffffff
+stageBackgroundColor = 0xdfdfdf
+displayTextSize      = "48sp"
+titleTextSize        = "38sp"
+headerTextSize       = "32sp"
+bodyTextSize         = "12sp"
+controlTextSize      = "24sp"
+
+*NOTE: These above are default values. Please modify to your preferred style.

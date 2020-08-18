@@ -1,0 +1,24 @@
+<stage
+  title="Sample Stage"
+  description="This is an example stage">
+    <SeriesLayout
+      orientation="vertical"
+      alignContents="center"
+      spacing="16dp">
+        <Label
+          width="container"
+          text="This is an Example Stage, feel free to modify :)"
+          textSize="@style/titleTextSize"
+          alignText="center"
+        />
+        <Button
+          text="OK"
+          onSelect="alert('You pressed OK Button')"
+        />
+    </SeriesLayout>
+    <event on="ready">
+        // Your JS script goes here...
+        console.log("Hurray... stage is ready!\ncurrent 'this' context:");
+        console.log(this);
+    </event>
+</stage>
