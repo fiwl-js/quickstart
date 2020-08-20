@@ -11,4 +11,4 @@ Download/clone this repository to start your own FIWL-based web app project inst
 
 Also `icons` directory that contains app icon and splash icon. You could replace those file with your app's icon and splash. Please keep in mind every icon must in `.svg` format.
 
-For more information, see [documentation](http://Thor-x86.github.io/fiwl-docs/docs/guide/how_to_use).
+For more information, see [documentation](http://Thor-x86.github.io/fiwl-docs/docs/intro/how_to_use).
